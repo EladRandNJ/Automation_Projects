@@ -1,9 +1,5 @@
 #!bin/bash
 
-#Student: Elad Rand s8
-#Unit: TMagen773634
-#Teacher: David SchiffmanSchiffman
-
 sp=50 #Controling the speed of displaying contents of certain files 
 
 #colors to color the text with:
