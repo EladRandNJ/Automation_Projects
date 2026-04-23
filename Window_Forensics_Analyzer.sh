@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#Student: Elad Rand s8
-#Unit: TMagen773634
-#Teacher: David SchiffmanSchiffman
-
 	#3.2 Save all the results into a report (name, files extracted, etc.).
 	exec > >(tee Report.txt) 2>&1 	#Exports all shell output into "Report.txt"
 				#"exec" is done to create a sub shell session of all the output of this session and immendiately close after its done.
