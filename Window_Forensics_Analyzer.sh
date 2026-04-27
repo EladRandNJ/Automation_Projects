@@ -6,7 +6,7 @@
 				
 				
 
-#1.1 Check the current user; exit if not ‘root’  +
+#1.1 Check the current user; exit if not ‘root’  
 
 function ROOT_CHECK(){	 #In order to execute the rest of the program, we must require Root permissions. This Function will check that we execute the SH file with Root permissions. If we didn't execute the SH file with Root permissions it will ask us for password and give us Root privileges.
 		
