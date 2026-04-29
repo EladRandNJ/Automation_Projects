@@ -1,24 +1,14 @@
 #!bin/bash
 
-sp=50 #Controling the speed of displaying contents of certain files 
+sp=50 # Controling the speed of displaying contents of certain files 
 
-#colors to color the text with:
+# colors to color the text with:
 RED='\033[0;31m'
 GRE='\033[0;32m'
 YEL='\033[0;33m'
 BLU='\033[0;34m'
 NC='\033[0m'
 
-#ur (user file used):
-	#ALEX
-	#Yellow_King
-	#Prince
-
-#pswd (password file used):
-	#Rambler12345!#
-	#1adjd112ks20
-	#ZZ00011111R()
-	#Pullian99
 
 
 
